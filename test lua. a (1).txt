@@ -1,0 +1,39 @@
+function main()
+meme sea =gg.multichoice(}{
+"chức năng1",
+"chức năng 2",
+"chức năng 3",
+"exit"}),nil,"Youtube: meme sea ")
+if Phuc ==nil then 
+else
+if meme [1]==true then else a1()end
+if meme sea [2]==true then a2 () end 
+if meme sea[3]==true then  a3()end
+if meme sea [4]==true then exit()
+end
+xgck=-1
+end
+
+function a1()
+gg.alert(" gắn mã vào đây ") 131052348897067
+end
+
+function a2()
+gg.alert(" autu fram lv 
+end
+
+function a3()
+gg.alert("anti ban ")
+end
+
+function exit ()
+os.exit()
+end
+while true do
+if gg.is Visible(true) then 
+xgck ==1
+gg.setVisible(false)
+end
+gg.clearResults()
+if xgck== 1 then main() end
+end 
